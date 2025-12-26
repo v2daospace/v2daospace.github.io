@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>个人修复合集 on ACG资源导航站</title><link>https://v2daospace.github.io/tags/%E4%B8%AA%E4%BA%BA%E4%BF%AE%E5%A4%8D%E5%90%88%E9%9B%86/</link><description>Recent content in 个人修复合集 on ACG资源导航站</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 24 Dec 2024 03:57:58 +0000</lastBuildDate><atom:link href="https://v2daospace.github.io/tags/%E4%B8%AA%E4%BA%BA%E4%BF%AE%E5%A4%8D%E5%90%88%E9%9B%86/index.xml" rel="self" type="application/rss+xml"/><item><title>【里番/超分修复教程】[个人修复合集](120FPS/4K2K修补/)【度盘】</title><link>https://v2daospace.github.io/posts/co4g0so4koc84c05/</link><pubDate>Tue, 24 Dec 2024 03:57:58 +0000</pubDate><guid>https://v2daospace.github.io/posts/co4g0so4koc84c05/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/kgKPgu2yGboL" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;！！！ai超分暴力画质修复，不喜的请直接出门左转
+由于私信的人不少，我发个合集出来，授人以鱼不如授人以渔
+顺带我把ai画质修复的教程手把手从下源，压制，修复，混流一套流程全部教学一下，以后有条件的网友可以自己修复喜欢的作品了，没条件的也可以收藏一下链接，了解了解也不吃亏
+这次作品包含
+村上恒一 个人风格的： 特別授業3SLG(无修)，黒愛～一夜妻館(无修)，聖奴隷学園2, 虜ノ雫 ～夏の豪華客船，監獄戦艦，対魔忍アサギ，龍堂寺士門の淫謀， ぜったい遵守☆強制子作り許可証!!，妹妹天堂，制服処女，魔将の贄3 ，还有非个人风格但是参与制作的宇宙海贼，魔法少女爱叁(无修)
+辰美  个人风格的： レジデンス，少交女，花子，花园，好きで好きで、すきで
+各种杂项 (懒得再介绍，以前的贴子从画风到实用度都介绍的很详细了)：魍魎の贄(触手)，STAR☆jewel(剧场版/高质量/扶她)，少女達の茶道&amp;amp;堕落令嬢(无修)，淫妖蟲 蝕 ～凌触島退魔録～(无修/触手)，公開便所，OVA 風輪奸山，貴方ハ私ノモノ -ドs彼女とドm彼氏(逆推/抖m榨精)
+预览图：&lt;/p&gt;
+&lt;p&gt;有部分是之前帖子发过的，算是补挡，还有不少是我后续修复的，里面有很多我尝试性的作品，比如换新模型或者新算法之类的，所以版本会很多，下面我详细介绍你们按需下载
+以下内容我建议尽量看完，这样有助于你们按需选择要下载的版本
+超分模型：2x_AniScale2S_Compact，Cugan-Pro-Denoise 3-Up3x
+2x 3x代表超分的倍率，就是画面放大两倍 三倍，720p的两倍就是1440p也就是大众所认为的2k，三倍就是2160p也就是大众所认为的4k
+2x_AniScale2S_Compact后面简称aniC，Cugan-Pro-Denoise 3-Up3x简称cugan
+cugan无脑清晰线条，涂抹颜色，高度锐化可以让画面显示的很清晰，目前最清晰的模型就是cugan，aniC相对它来说没那么清晰，但是画面整体会更自然，现在很多up超分新番番剧(表番)用aniC适用度极高，基本都能上它，如果画质本身质量够高很少有崩坏画面，你又很喜欢极致清晰的感觉就可以上cugan，反之贼会导致画面很烂，举个强行用cugan的例子&lt;/p&gt;
+&lt;p&gt;额外提一嘴anisC的前辈Aniscale同样是480P，Aniscale超分出来观感明显强于cugan，因为cugan锐化太严重了， Aniscale 相比于 Aniscale 2 compact锐化更弱，可以最大程度还原原本的画面分格，字体还原效果更好，远景效果更好， Aniscale 2 compact在远景可能会出现和cugan类似的情况，有略微瑕疵2 compact就是略微更清晰的Aniscale
+综合考虑 我还是只推荐anisC和cugan
+由于我个人喜好，我偏向无脑清晰，所以我cugan版本的资源会偏多
+补帧算法：前进消重 与 去一拍二拍三
+一拍N简单的说就是一张画在画面上停留几个1/24秒。是动画制作中一种节省工作量的方法，因为每秒八张画(也就是一拍三)，就能最低限度的动作的连贯，为了原画师的生命安全，动画很少使用一拍一
+意思就是我们大部分看的动画片其实就12帧或者8帧，但是也有例外，比如迪士尼的作品全程一拍一24帧，京阿尼和ufo社很多高潮场景都是一拍一的，clannad幻想少女片段也是丝滑度拉满的，没全程用有经费方面的原因
+前进消重是完全去重，就是去掉全部重复帧，强制一帧一个画面ai补全，效果呈现出来就是和3d游戏一样的高度丝滑度，缺点就是处理速度极慢，我4070t前进消重算法一集得处理7小时，如果是去一拍二拍三只需要2-3小时，我发的所以作品全是完全去重，相比于大部分人用的去一拍二拍三会有点维和，但是丝滑度也是最高的。
+了解这些后我就可以说我修的那些东西了
+特別授業3SLG(无修)：
+x3 Cugan-Pro-Denoise (三倍放大降噪修复) 4k 120fps
+黒愛～一夜妻館(无修)：
+x2 Cugan-Pro-No-Denoise(二倍放大不降噪修复) 2k 120fps
+聖奴隷学園2：
+x3 Cugan-Pro-Denoise (三倍放大降噪修复) 4k 120fps
+虜ノ雫 ～夏の豪華客船：
+2x_AniScale2S_Compact (二倍放修复) 2k 120fps/24fps
+監獄戦艦：
+x3 Cugan-Pro-No-Denoise(三倍放大不降噪修复) 4k 120fps
+対魔忍アサギ：
+x3 Cugan-Pro-Denoise(三倍放大降噪修复) 4k 120fps
+龍堂寺士門の淫謀：
+本篇转载南+ 4k 120fps cugan修复，去一拍二补帧 。 ova特典自修，采用2x_AnisC模型，前进消重算法完全去重，正好你们可以对比对比流畅度和画面差别看更喜欢哪个
+ぜったい遵守☆強制子作り許可証!!：
+x2 Cugan-Pro-No-Denoise(二倍放大不降噪修复) 2k 60fps，早期修复的
+妹妹天堂：
+x2 Cugan-Pro-Denoise(二倍放大降噪修复) 4k 120fps，本身源质量很高修复起来很不错
+制服処女：
+x2 Cugan-Pro-Denoise(二倍放大降噪修复) 2k 120fps
+魔将の贄3 ：
+转载南+ 4k 120fps cugan修复，去一拍二补帧 。早期我有修复一版那时候处理的很糙，源找的也不好
+宇宙海贼：
+x3 Cugan-Pro-Denoise(三倍放大降噪修复) 4k 120fps  本身源比较老，cugan强制三倍发大修起来会让部分原本就崩坏的场景线条发虚，涂抹感重
+魔法少女爱叁(无修)：
+x2 Cugan-Pro-Denoise(二倍放大降噪修复) 2k 120fps，nyaa上今年有人发了无修的1080bd源，源文件因为强制1080拉伸导致线条锯齿很严重，特别是第一集，我自己压制去了点锯齿，技术有限尽力而为
+レジデンス，少交女，花子，花园，好きで好きで、すきで：
+x2 Cugan-Pro-Denoise(二倍放大降噪修复) 2k 120fps  这些都辰美的片处理手法都一样
+魍魎の贄(触手)：
+2x_AniScale2S_Compact 和 x2 Cugan-Pro-Denoise 2k 24fps，没补帧，两个模型都试了一下看效果，原片质量还行的情况下，cugan的清晰度提升很大
+STAR☆jewel(剧场版/高质量/扶她)：
+x2 Cugan-Pro-no-Denoise 2k 120fps，质量很高 人设有趣，魔法少女互相长鸡巴xo，谁输谁当p高潮被夺取自身核心
+少女達の茶道&amp;amp;堕落令嬢(无修)：
+x2 Cugan-Pro-no-Denoise 2k 120fps
+淫妖蟲 蝕 ～凌触島退魔録～(无修/触手)：
+x2 Cugan-Pro-no-Denoise 2k 120fps，ova从整合视频源切割出来，手动字幕对轴，画风不太一样
+公開便所：
+2x_AniScale2S_Compact  2k 120fps 该说不说，ani的锐化是真的少，看的很自然
+OVA 風輪奸山：
+x2 Cugan-Pro-no-Denoise 2k 120fps
+貴方ハ私ノモノ -ドs彼女とドm彼氏(逆推/抖m榨精)：
+2x_AniScale2S_Compact  2k 24fps
+————————————————————————————————————————–分割线
+以上就是所有内容，no-Denoise和Denoise就是不降噪和降噪的意思，不降噪更自然，降噪会更显得画面更清晰，但是色彩会过于单一甚至让原有的一写细节给涂抹没
+由于上传过慢，但是萌站貌似没草稿保存？我先直接把帖子发出来，后续的链接我分两三次补完吧，周二晚上会发一次，最迟16号周四肯定发完
+ok，接下来我好好讲讲怎么修复，首先要知道自己喜欢什么种类的番，美术啊，风格啊，监督啊，都看个人考虑，正好有一个喜欢的作品，想看类似的作品怎么找？我之前的帖子有讲过这个
+有了喜欢的作品，就得找这个作品的高质量源，一般dvd的iso文件直接提取出来源文件都是480，蓝光bd一般到720，我们目前网上看到的1080的那些都是压制组拉伸压出来的，可以选择好的压制组压出来的视频直接进行修复，也可以自己直接提取iso文件里的源视频自己进行拼接压制，这种比较麻烦
+找这类高质量源建议去nyaa( 第1-16弹(有种你就来！) [漫之学园资源部]&amp;gt;大部分优质里番都有，主要高清封面和外挂字幕都齐全，链接就不放了,自己搜慢慢捣鼓吧
+现在有源视频，后面就是工具了&lt;/p&gt;</description></item></channel></rss>

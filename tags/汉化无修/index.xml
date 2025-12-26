@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>汉化无修 on ACG资源导航站</title><link>https://v2daospace.github.io/tags/%E6%B1%89%E5%8C%96%E6%97%A0%E4%BF%AE/</link><description>Recent content in 汉化无修 on ACG资源导航站</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 16 May 2025 02:57:02 +0000</lastBuildDate><atom:link href="https://v2daospace.github.io/tags/%E6%B1%89%E5%8C%96%E6%97%A0%E4%BF%AE/index.xml" rel="self" type="application/rss+xml"/><item><title>【SLG/汉化无修】Good bye Eternity V0.11.0 [PC/安卓双端]</title><link>https://v2daospace.github.io/posts/sgkw40044sswsws7/</link><pubDate>Fri, 16 May 2025 02:57:02 +0000</pubDate><guid>https://v2daospace.github.io/posts/sgkw40044sswsws7/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/h58MQRl68DSLaXc6" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;游戏介绍：
+Goodbye Eternity是一款点击式冒险游戏，具有视觉小说和约会模拟元素。
+当你与人互动时，尤其是与女性互动时，你有可能有几条路，这取决于你的行动和答案，故事会有所不同。‘
+该游戏目前正在开发中，许多内容计划在更新中，这将取决于 Patreon 的资金。理想情况下，我们希望每 3 到 4 个月发布一个新版本
+如果你在生活中有了新的机会怎么办？如果你能让它比那些年的痛苦和骚扰更好呢？
+如果你能报复所有冤枉你的人，得到你一直想要的东西，那会怎样……
+三十年前，当你在年轻的身体中醒来时，你会怎么做？选择权在您手中。&lt;/p&gt;
+&lt;p&gt;v0.11.0
+##已添加
+*故事主线延续
+*4个字符
+*8个CG
+*28种CG变体
+*1个新地点“
+*现有角色的1套新服装
+*背景中有一个角色精灵
+*故事背景的一些变化
+*翻译下载器功能
+*将连接到服务器，以允许下载社区制作的翻译
+*文件将自动放置在正确的文件夹中，允许Android用户使用翻译
+*需要同步可用的翻译列表，以便下载每种语言
+*使用PC或MacOS时，此同步将自动完成
+*这将需要在Android上额外按下一次，以免触发任何数据消耗
+*同步后，列表将更新，显示每种语言的进步并允许下载
+*下载文件后，它会自动启用。您每天只能下载每个文件一次，毕竟翻译通常需要更长的时间才能更新：）
+*如果文件不完整，缺失的行将以英文显示
+*重新制作的动画的声音（请参见修改）
+##已修改
+*Godot已经更新到4.3（是的，我们知道4.4.1已经发布了一段时间，我们将在0.12版本中进行开发）
+*将4个动画从视频转换为Spine
+*音量滑块现在按百分比而不是dB运行
+*如果您在任何地方都使用0dB（意味着100%），则加载首选项时声音将为0%。你需要重新调整它
+##已修复
+*加载选项时游戏状态损坏，在游戏过程中的特定点保存
+*如果您的保存因此被窃听，请不要使用它，因为它无法纠正
+*加载特定存储时发生碰撞
+*跳过路径启动UI时游戏锁定
+##已知问题
+*即使启用了设置，其中一个新角色的角色角色上也没有阴毛
+作者地址
+Goodbye Eternity 0.10 Available now – Goodbye Eternity by RNGeusEX
+RNGeusEX | Games that won’t leave you indifferent | Patreon&lt;/p&gt;</description></item></channel></rss>
